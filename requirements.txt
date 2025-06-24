@@ -4,6 +4,5 @@ matplotlib
 seaborn
 wordcloud
 scikit-learn
-Sastrawi
 gensim
 openpyxl
